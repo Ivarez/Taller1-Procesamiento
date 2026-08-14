@@ -15,4 +15,4 @@ Este repositorio contiene la resolución estructurada, documentada y analítica 
 * `07-Python-Bucles.ipynb`: Rutinas de iteración para recorrer colecciones bajo condiciones fijas (`for`) y dinámicas (`while`).
 * `08-Python-Funciones.ipynb`: Encapsulamiento del código analítico, modularidad y definición formal del ámbito de variables.
 * `09_Python_Clases.ipynb`: Abstracción esquemática de la Programación Orientada a Objetos (POO), constructores y definición de métodos.
-* `10-Practico_Bono_1.ipynb`: Ejercicios de integración lógica avanzada, resolución analítica y síntesis algorítmica.
+* `10-Practico_Bono_1.ipynb`: Ejercicios de integración lógica avanzada.
